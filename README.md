@@ -1,2 +1,3 @@
 # Arquivos de Programação C ->Faculdade
-a repository of my C programming exercises
+
+This is a repository with some of my C programming exercises from my time on university
